@@ -1,0 +1,12 @@
+[
+  {
+    "id": "8a7b2f19-1e34-4e10-b1f8-abc123",
+    "name": "Matrix Multiplication",
+    "complexity": "Hard"
+  },
+  {
+    "id": "91ce8d44-77aa-41cb-9c11-def456",
+    "name": "Parallel Reduction",
+    "complexity": "Medium"
+  }
+]
